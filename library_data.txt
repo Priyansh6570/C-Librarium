@@ -1,0 +1,7 @@
+rich,dad,false
+book,auth,true
+rich dad poor dad,updesh,true
+rich fortune,smith,true
+man who became rich,man,true
+child who became strong,child,true
+kill,updesh,true
